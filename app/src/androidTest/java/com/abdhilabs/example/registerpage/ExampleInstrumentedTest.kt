@@ -1,4 +1,4 @@
-package com.example.assegaf.registerpage
+package com.abdhilabs.example.registerpage
 
 import androidx.test.InstrumentationRegistry
 import androidx.test.runner.AndroidJUnit4

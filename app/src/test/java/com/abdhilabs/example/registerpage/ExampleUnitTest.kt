@@ -1,4 +1,4 @@
-package com.example.assegaf.registerpage
+package com.abdhilabs.example.registerpage
 
 import org.junit.Test
 
